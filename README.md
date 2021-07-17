@@ -28,6 +28,15 @@ https://towardsdatascience.com/trade-smarter-w-reinforcement-learning-a5e91163f3
 https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4  
 but couldn't complete so as tensortrade is not working anymore, so faced a lot of issues with the same.
 
-# 
+# Recent progress
+- Read the paper: 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726   
+and summarised about the same.
+- Also completed the first 2 weeks of the coursera course :
+https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance#syllabus  
+- Currently trying to complete this tutorial ( Debugging due to data discrepancy) 
+https://github.com/borisbanushev/stockpredictionai 
+- Set the FinRL environment 
+https://github.com/AI4Finance-LLC/FinRL and now trying to run these: https://github.com/6-Billionaires/trading-gym
 
 
