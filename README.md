@@ -22,10 +22,10 @@ This gave me a working understanding of how RL works.
 Going further down the timeline, I started learning more on RL through :
 - Q Learning- through this video series: https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
 - SUDARSHAN RAVICHANDRAN - HANDS-ON REINFORCEMENT LEARNING WITH PYTHON book
-- Also tried and worked on these tutorials:
-https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e
-https://towardsdatascience.com/trade-smarter-w-reinforcement-learning-a5e91163f315 
-https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4
+- Also tried and worked on these tutorials:  
+https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e  
+https://towardsdatascience.com/trade-smarter-w-reinforcement-learning-a5e91163f315   
+https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4  
 but couldn't complete so as tensortrade is not working anymore, so faced a lot of issues with the same.
 
 # 
