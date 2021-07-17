@@ -39,6 +39,9 @@ https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance#s
 - Currently trying to complete this tutorial ( Debugging due to data discrepancy) 
 https://github.com/borisbanushev/stockpredictionai 
 - Set the FinRL environment :
-https://github.com/AI4Finance-LLC/FinRL and now trying to run these: https://github.com/6-Billionaires/trading-gym
+https://github.com/AI4Finance-LLC/FinRL and now trying to run these: https://github.com/6-Billionaires/trading-gym   
+
+
+So basically the final task is in progress (FinRL and OpenAI gym)
 
 
