@@ -13,7 +13,7 @@ The initial learning experience included:
 
 - Learnt about Neural Networks through academics during the initial period.   
 - Completed the 4 lecture videos of RL course by David Silver    
-- Reading about RL, kinds of algorithms and lots more from this blog- https://spinningup.openai.com/en/latest/
+- Reading about RL, kinds of algorithms and lots more from this blog- https://spinningup.openai.com/en/latest/  
 
 
 This gave me a working understanding of how RL works.
@@ -26,7 +26,9 @@ Going further down the timeline, I started learning more on RL through :
 https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e  
 https://towardsdatascience.com/trade-smarter-w-reinforcement-learning-a5e91163f315   
 https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4  
-but couldn't complete so as tensortrade is not working anymore, so faced a lot of issues with the same.
+but couldn't complete so as tensortrade is not working anymore, so faced a lot of issues with the same.   
+1.py and 2.py are the files 
+
 
 # Recent progress
 - Read the paper: 
@@ -36,7 +38,7 @@ and summarised about the same.
 https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance#syllabus  
 - Currently trying to complete this tutorial ( Debugging due to data discrepancy) 
 https://github.com/borisbanushev/stockpredictionai 
-- Set the FinRL environment 
+- Set the FinRL environment :
 https://github.com/AI4Finance-LLC/FinRL and now trying to run these: https://github.com/6-Billionaires/trading-gym
 
 
