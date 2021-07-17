@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1BYZIN4ct_Ap34xpvxxxZrYDiUTBdTFO2wU14VRbhrYk/
 https://docs.google.com/document/d/1AiOjZM5y7BYH9zs_boZMupaAQ0KlAv9odD5Vv54bTpA/edit
 
 
-# Initial Learnings
+# Initial Learnings-1
 The initial phase of the project was mainly learning based and involved learning in deep about reinforcement learning.
 
 
@@ -18,7 +18,7 @@ The initial learning experience included:
 
 This gave me a working understanding of how RL works.
 
-# Further Progress
+# Further Progress-2
 Going further down the timeline, I started learning more on RL through :
 - Q Learning- through this video series: https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
 - SUDARSHAN RAVICHANDRAN - HANDS-ON REINFORCEMENT LEARNING WITH PYTHON book
@@ -30,7 +30,7 @@ but couldn't complete so as tensortrade is not working anymore, so faced a lot o
 1.py and 2.py are the files 
 
 
-# Recent progress
+# Recent progress-3
 - Read the paper: 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726   
 and summarised about the same.
